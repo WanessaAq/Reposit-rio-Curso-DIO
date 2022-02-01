@@ -1,0 +1,47 @@
+#Conteúdo inicial do Bootcamp da Dio.me Inter Front-end Developer
+ 
+ ##Entendendo o que é Lógica de Programação
+
+Se trata basicamente de uma coerência de raciocínio, de idéias. Uma sequência coerente, regular e necessária de acontecimentos,contextualizado na programação de computadores, buscando a melhor sequência de ações para solucionar um problema. E para essa sequência damos o nome de Algoritmo.
+
+ Sempre precisoindicar o inicio e o fim de uma atividade:
+
+INÍCIO
+Acordei
+Troquei de roupa
+Tomei café
+Escovei os dentes 
+Fui trabalhar
+...
+Chegeuei do trabalho 
+Tomei banho
+Jantei
+Escovei os dentes
+Fui dormir
+FIM
+
+##*Oque é um Pseudocódigo?
+
+É uma maneira genérica de escrever um algoritmo utilizando uma linguagem nativa, simples, que pode ser entendida por qualquer pessoa.
+
+##EXERCÍCIO:
+
+- Criar um algoritimo do meu dia.
+
+R:
+
+INÍCIO
+Acordei
+Troquei de roupa
+Tomei café da manhã
+Escovei os dentes
+Ajudei minha mãe
+Fiz o almoço
+...
+Fui estudar
+Tomei banho
+Fiz o jantar
+Escovei os dentes 
+Troquei de roupa
+Fui dormir
+FIM
